@@ -19,6 +19,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    background-color: #80A1BA;
 }
 
 .card-img-top {
@@ -64,4 +65,5 @@
     text-decoration: none;
     color: #bfbdbd;
     padding: 2%;
+
 }
